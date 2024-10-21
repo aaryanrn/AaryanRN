@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aaryan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++,JAVA
+- 🌱 I’m currently learning C++,JAVA,Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : itsaaryanagrawal@gmail.com
 
